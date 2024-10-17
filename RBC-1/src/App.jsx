@@ -32,7 +32,6 @@ function App() {
         <Items  data={data} />
         <ItemDate data={data}/>
       </div>
-
     </>
   )
 }
